@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-from matplotlib import pyplot as plt
 from matplotlib import image as mpimg
 from sklearn.model_selection import train_test_split
 from sklearn.cluster import KMeans
